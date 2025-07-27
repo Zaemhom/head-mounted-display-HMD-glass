@@ -4,7 +4,7 @@
 HMD Glass is a wearable head-mounted robot designed for mini wrestling-style autonomous combat. It visually detects opponents, reacts with smart movement, and alerts when flipped—all inside a compact 3D-printed glasses frame.
 
 ## Why I Built It
-Inspired by the fusion of robotics and wearables, I created this device to see the autonomous behavior in a constrained space. It's a testbed for visual recognition, feedback loops, and fall-alert systems—all packed into an HMD form factor that’s lightweight and functional.
+Inspired by the fusion of robotics and wearables, I created this device to see the autonomous behavior in a constrained space. It's a testbed for visual recognition, feedback loops, and fall-alert systems, all packed into an HMD form factor that’s lightweight and functional.
 
 
 ## System Images
