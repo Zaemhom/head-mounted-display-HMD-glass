@@ -28,4 +28,4 @@ Inspired by the fusion of robotics and wearables, I created this device to see t
 | Enclosure Foam Padding & Mounting Gear  | 1        | $9         | -                                                                                        |
 | High Quality Glass for HMD Front Panel  | 1        | $22        | -                                                                                        |
 
-**Total: $299**
+**Total: $254**
