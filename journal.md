@@ -53,7 +53,7 @@ Honestly, I had fun spinning the 3D view around like a toy, tilting and rotating
 
 I dug into material choices today. I researched high-CRI glass that would allow the camera to see clearly without distortion, and compared it against cheaper protective covers. I also compared ABS vs. PLA for the frame itself. ABS seemed better for shock absorption, but PLA is lighter and might feel more comfortable on the head.  
 
-I then refined the ear-hook design to distribute the load evenly, imagining how the frame would feel after being worn for hours. Comfort turned out to be just as important as electronics placement.  
+I then refined the design to distribute the load evenly, imagining how the frame would feel after being worn for hours. Comfort turned out to be just as important as electronics placement.  
 
 At one point I put the simulation aside and literally held my regular glasses, tilting them in front of a desk lamp, just to imagine the difference.  
 
@@ -94,6 +94,7 @@ I documented average current draw both at idle and during alert events. Idle was
 
 I couldn’t help but think: if someone really wore this every day, how annoying would frequent charging be?  
 
+
 ---
 
 ### Day 8 – June 21  
@@ -104,6 +105,8 @@ I compared SMS latency across multiple carriers using the SIM800L. Some carriers
 Then I added logging triggers to the decision logic, the system now records what conditions triggered each alert, making it easier to refine thresholds later.  
 
 It felt like giving the robot a “memory” of its mistakes.  
+- ![3d model in simulation](assets/boo.jpg)
+
 
 ---
 
@@ -203,7 +206,7 @@ Looking at the full render, it finally felt like a product instead of just an ex
 ### Day 18 – July 1  
 **Time Spent:** 6h  
 
-Final review day. I went through the entire checklist: documentation, folder structure, wiring diagrams, logs, renders. Everything got a final polish.  
+Final review day. I went through the entire checklist: documentation, folder structure, wiring diagram, logs, models. Everything got a final polish.  
 
 I also simulated the Wi-Fi station mode of the ESP32, showing how the headset could broadcast locally for real-time monitoring. That felt like the perfect last touch.  
 
@@ -212,4 +215,5 @@ Closing the project was bittersweet, after weeks of tweaking, I felt like I was 
 - ![SHOWS THE electronics AS A WI-FI STATION.](assets/image-4.png)  
 
 ---
+
 
