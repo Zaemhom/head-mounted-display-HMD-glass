@@ -199,14 +199,14 @@ It’s funny reading back through the first notes, the project feels much more r
 
 I built a README and wiring illustrations, added PCB labels, and created detailed callouts for each module. I also captured final renders from multiple angles.  
 
-Looking at the full render, it finally felt like a product instead of just an experiment.  
+Looking at the full render, I finally felt like I made a game instead of just an experiment.  
 
 ---
 
 ### Day 18 – July 1  
 **Time Spent:** 6h  
 
-Final review day. I went through the entire checklist: documentation, folder structure, wiring diagram, logs, models. Everything got a final polish.  
+Now, it is the final review day. I went through the entire checklist: documentation, folder structure, wiring diagram, logs, models. Everything got a final polish.  
 
 I also simulated the Wi-Fi station mode of the ESP32, showing how the headset could broadcast locally for real-time monitoring. That felt like the perfect last touch.  
 
@@ -215,5 +215,6 @@ Closing the project was bittersweet, after weeks of tweaking, I felt like I was 
 - ![SHOWS THE electronics AS A WI-FI STATION.](assets/image-4.png)  
 
 ---
+
 
 
