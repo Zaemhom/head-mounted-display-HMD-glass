@@ -171,12 +171,13 @@ created_at: "14/6/2025"
 
 ---
 ## Images
-- ![alt text](pp.jpg)   
-- ![alt text](piii.jpg)
-- ![alt text](picc.png)
-- ![alt text](boo.jpg)
-- ![THE CONNECTIONs](image.png)
-- ![both 3-Axis accelerometer and 3-Axis gyroscope](image-1.png)
-- ![angular velocity used equation](image-2.png)
-- ![acceleration equation used](image-3.png)
-- ![SHOWS THE electronics AS A WI-FI STATION.](image-4.png)
+- ![alt text](assets/pp.jpg)   
+- ![alt text](assets/piii.jpg)
+- ![alt text](assets/picc.png)
+- ![alt text](assets/boo.jpg)
+- ![THE CONNECTIONs](assets/image.png)
+- ![both 3-Axis accelerometer and 3-Axis gyroscope](assets/image-1.png)
+- ![angular velocity used equation](assets/image-2.png)
+- ![acceleration equation used](assets/image-3.png)
+
+- ![SHOWS THE electronics AS A WI-FI STATION.](assets/image-4.png)
