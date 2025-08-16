@@ -27,9 +27,9 @@ Inspired by the fusion of robotics and wearables, I created this device to see t
 | USB to Serial Adapter                   | 1        | $16.18        | [link](https://ar.aliexpress.com/item/1005006549149469.html?)                                                                                        |
 | Enclosure Foam Padding & Mounting Gear  | 1        | $2.08         | [link](https://ar.aliexpress.com/item/1005007300666949.html?)                                                                                        |
 | Glass for HMD Front Panel  | 1        | $17        | this also i will get it from a nearby glass shop so it doesnt have links
-                                                                                        |
 
-**Total: $254**
+**Total: $268.53**
+
 
 
 
