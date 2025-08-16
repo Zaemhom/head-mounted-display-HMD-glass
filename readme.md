@@ -8,10 +8,10 @@ Inspired by the fusion of robotics and wearables, I created this device to see t
 
 
 ## System Images
-- ![alt text](pp.jpg)   
-- ![alt text](piii.jpg)
-- ![alt text](picc.png)
-- ![alt text](boo.jpg)
+- ![alt text](assets/pp.jpg)   
+- ![alt text](assets/piii.jpg)
+- ![alt text](assets/picc.png)
+- ![alt text](assets/boo.jpg)
 ## Bill of Materials (BOM)
 
 | Component                                | Quantity | Cost (USD) | Link                                                                                     |
@@ -29,3 +29,4 @@ Inspired by the fusion of robotics and wearables, I created this device to see t
 | High Quality Glass for HMD Front Panel  | 1        | $22        | -                                                                                        |
 
 **Total: $254**
+
