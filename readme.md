@@ -22,7 +22,7 @@ Inspired by the fusion of robotics and wearables, I created this device to see t
 | SIM800L GSM Module (with antenna)       | 1        | $12        | [Amazon](https://www.amazon.com/SIM800L-Wireless-Extension-Antenna-Replacement/dp/B09BMQ3JDV) |
 | 18650 Lithium Battery Pack + Charger    | 1        | $40        | [link](https://www.amazon.com/MIEKLALE-Intelligent-Rechargeable-Batteries-Included/dp/B0DK79PHD9/)                                                                                        |
 | Power Switch & JST Connectors           | 1        | $20        | [link](https://www.amazon.com/Connector-Housing-Adapter-Pre-Crimped-Extension/dp/B0DH2C8MBK/)                                                                                        |
-| 3D-Printed Glasses Frame (ABS)          | 1        | $25        | I will get this from a fablab nearby so i can't put a link for it
+| 3D-Printed Glasses Frame (ABS)          | 1        | $25        | I will get this from a fablab nearby so i can't put a link for it |
                                                                                         |
 | Jumper Wires & Breadboard               | 1        | $31.07        | [link](https://ar.aliexpress.com/item/1005009232305446.html?)                                                                                        |
 | USB to Serial Adapter                   | 1        | $16.18        | [link](https://ar.aliexpress.com/item/1005006549149469.html?)                                                                                        |
@@ -31,5 +31,6 @@ Inspired by the fusion of robotics and wearables, I created this device to see t
                                                                                         |
 
 **Total: $254**
+
 
 
