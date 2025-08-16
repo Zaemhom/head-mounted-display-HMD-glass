@@ -12,7 +12,7 @@ created_at: "2025-06-14"
 ### Day 1 – June 14  
 **Time Spent:** 6h  
 
-I kicked things off today with pure brainstorming. The central idea was to design a wearable robot, a kind of smart head-mounted glass that could recognize events, maneuver accordingly, and even alert others when necessary. I read through several papers on embedded vision in constrained spaces and also looked up fall detection robotics as a key use case.  
+I decided to begin with pure brainstorming. The central idea was to design a wearable robot, a kind of smart head-mounted glass that could recognize events, maneuver accordingly, and even alert others when necessary. I read through several papers on embedded vision in constrained spaces and also looked up fall detection robotics as a key use case.  
 
 What struck me early on was how much I’d need to balance compactness with functionality. It’s not like building a desktop robot, this thing would sit on someone’s head, so every gram, every degree of heat, every tiny vibration matters. My notes are already crowded with circles and arrows pointing at “camera here?” or “sensor too heavy??”  
 
@@ -23,13 +23,15 @@ It’s exciting though. I even caught myself imagining how someone would feel we
 ### Day 2 – June 15  
 **Time Spent:** 5h  
 
-I sketched out the first design for the frame, a kind of headset that could mount the ESP32-WROOM board. I debated between ESP32-CAM and a Raspberry Pi camera module, comparing power draw, clarity, and physical footprint. The ESP32 felt more balanced for portability, even if the image quality might be a little lower.  
+I sketched out the first design for the frame, a kind of headset that could mount the ESP32-WROOM board. I debated between camera modules i found, comparing power draw, clarity, and physical footprint.
 
 I also drafted the dataflow: gyroscope readings feed into the microcontroller, and if certain thresholds are passed, it would send alerts through GSM. It was strange to think of something so small being able to carry out a full chain of sensing → processing → communication in real time.  
 
 While sketching, I stopped for a snack and laughed at how much the drawing looked like a sci-fi toy more than an assistive robot. Still, the idea was starting to solidify.  
 
-- ![3d model in simulation](assets/boo.jpg)  
+
+- ![3d model](assets/piii.jpg)  
+
 
 ---
 
@@ -43,7 +45,6 @@ I then simulated the camera’s field of view, checking how much the wearer coul
 Honestly, I had fun spinning the 3D view around like a toy, tilting and rotating it just to see how it would look from different angles.  
 
 - ![3d model](assets/pp.jpg)  
-- ![full assembly of 3d with electronics](assets/picc.png)  
 
 ---
 
@@ -185,8 +186,8 @@ Not everything is dramatic, sometimes a “fall” is just clumsy movement. The 
 I modeled and rendered the final headset design today. The visuals came out clean, and I compiled an index of all parts and references. I also edited older journal entries for clarity.  
 
 It’s funny reading back through the first notes, the project feels much more real now compared to those messy day-one sketches.  
+- ![full assembly of 3d with electronics](assets/picc.png)  
 
-- ![3d model](assets/piii.jpg)  
 
 ---
 
@@ -211,3 +212,4 @@ Closing the project was bittersweet, after weeks of tweaking, I felt like I was 
 - ![SHOWS THE electronics AS A WI-FI STATION.](assets/image-4.png)  
 
 ---
+
